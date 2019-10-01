@@ -1,2 +1,2 @@
-# ProjectRedes
-Projeto da disciplina "Redes de Computadores I"
+# ProjectComputerNetworks
+Computer Networks course project
